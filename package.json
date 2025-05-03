@@ -1,0 +1,23 @@
+{
+  "name": "a2a-agent",
+  "version": "1.0.0",
+  "description": "Este proyecto implementa un sistema de desarrollo colaborativo utilizando el protocolo Agent-to-Agent (A2A) de Google. Permite que múltiples agentes especializados trabajen juntos para planificar e implementar una aplicación web, con mínima intervención humana después del prompt inicial.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriapedralbes/a2a-agent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adriapedralbes/a2a-agent/issues"
+  },
+  "homepage": "https://github.com/adriapedralbes/a2a-agent#readme",
+  "directories": {
+    "test": "tests"
+  }
+}
